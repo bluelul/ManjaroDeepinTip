@@ -27,5 +27,5 @@
 
 // STEP 4: REBOOT, we has done
 
-// 3 June 2019
+// June 3rd 2019
 // lttung1197
