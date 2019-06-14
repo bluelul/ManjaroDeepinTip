@@ -28,7 +28,8 @@
 	sudo nano /etc/default/grub
 	// add "resume=/dev/sda7" to GRUB_CMDLINE_LINUX_DEFAULT flag as below:
 	GRUB_CMDLINE_LINUX_DEFAULT="quiet resume=/dev/sda7"
-
+	sudo update-grub
+	
 // STEP 4: REBOOT, we has done
 
 // June 3rd 2019
